@@ -4,6 +4,16 @@
 
 This demo repository contains a **video showcase** of the app's features and user interface.
 
+---
+
+## 🎥 Demo Video
+
+👉 [🎥 Watch the Demo Video](acucare_video_demo.mp4)
+
+> This video shows a walkthrough of the AcuCare app’s acne scan, classification, and treatment recommendation features.
+
+
+
 
 ---
 
