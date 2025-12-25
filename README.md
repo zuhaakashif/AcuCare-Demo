@@ -12,7 +12,34 @@ This demo repository contains a **video showcase** of the app's features and use
 
 > This video shows a walkthrough of the AcuCare app’s acne scan, classification, and treatment recommendation features.
 
+---
 
+## 🖼️ App Screenshots
+
+Below are selected screenshots showcasing the AcuCare app’s user interface, acne detection pipeline, and treatment recommendation workflow.
+
+<p align="center">
+  <img src="acucare-1.jpg" width="220"/>
+  <img src="acucare-2.jpg" width="220"/>
+  <img src="acucare-3.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="acucare-4.jpg" width="220"/>
+  <img src="acucare-5.jpg" width="220"/>
+  <img src="acucare-6.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="acucare-7.jpg" width="220"/>
+  <img src="acucare-8.jpg" width="220"/>
+  <img src="acucare-9.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="acucare-10.jpg" width="220"/>
+  <img src="acucare-11.jpg" width="220"/>
+</p>
 
 
 ---
